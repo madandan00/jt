@@ -1,0 +1,249 @@
+.top {
+  padding-top: 1rem; }
+
+.tit {
+  height: 1rem;
+  font-size: 14px;
+  background: #fff;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  border-bottom: 1px solid #e5e5e5; }
+  .tit i {
+    font-size: 0.4rem;
+    line-height: 1rem;
+    color: #454545;
+    margin-left: 0.1rem; }
+  .tit img {
+    width: 2rem;
+    height: 0.65rem;
+    margin: 0 auto 0 2.3rem; }
+
+.banner {
+  height: 4rem;
+  width: 100%;
+  margin-bottom: 0.2rem; }
+  .banner img {
+    width: 100%;
+    height: 100%; }
+
+.display {
+  background: #fff;
+  padding: 0 0.2rem;
+  box-sizing: border-box; }
+  .display dl {
+    width: 2.366rem;
+    height: 2.8rem;
+    float: left;
+    text-align: center; }
+    .display dl dt img {
+      width: 1rem;
+      height: 1rem;
+      margin-top: 0.3rem;
+      margin-bottom: 0.1rem; }
+    .display dl .first {
+      font-size: 0.3rem;
+      color: #2d85f6;
+      line-height: 0.5rem; }
+    .display dl .second p {
+      margin: 0 0.1rem;
+      font-size: 0.2rem;
+      color: #666;
+      line-height: 0.4rem; }
+
+.product-introduce {
+  font-size: 14px;
+  padding: 0 0.2rem;
+  box-sizing: border-box;
+  margin-top: 0.2rem; }
+  .product-introduce span {
+    font-size: 0.3rem;
+    color: #000;
+    margin-bottom: 0.12rem;
+    line-height: 0.5rem;
+    margin-left: 0.1rem; }
+  .product-introduce p {
+    font-size: 0.24rem;
+    color: #333;
+    line-height: 0.38rem; }
+
+.carMortgage-display {
+  margin-top: 0.2rem; }
+  .carMortgage-display .box1 img {
+    border: 1px solid #999;
+    width: 3.48rem;
+    height: 1.6rem;
+    float: left; }
+  .carMortgage-display .box1 img + img {
+    margin-left: 0.06rem; }
+  .carMortgage-display .box2 {
+    margin-top: 0.2rem;
+    padding: 0 0.2rem;
+    box-sizing: border-box; }
+    .carMortgage-display .box2 ul {
+      width: 2.23rem;
+      float: left;
+      text-align: center; }
+      .carMortgage-display .box2 ul .first img {
+        width: 1.5rem;
+        height: 0.9rem; }
+      .carMortgage-display .box2 ul .second p {
+        display: inline-block;
+        text-align: center;
+        font-size: 0.24rem;
+        color: #333;
+        width: 1.3rem; }
+  .carMortgage-display .box3 {
+    margin-top: 0.2rem;
+    padding-bottom: 0.3rem; }
+    .carMortgage-display .box3 ul {
+      margin-left: 0.4rem; }
+      .carMortgage-display .box3 ul li {
+        font-size: 0.2rem;
+        color: #333;
+        line-height: 0.4rem; }
+        .carMortgage-display .box3 ul li i {
+          color: #1698dc; }
+
+.product_display {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem; }
+  .product_display dl {
+    margin-bottom: 0.05rem;
+    width: 3.5rem;
+    height: 1.7rem;
+    padding-top: 0.3rem;
+    background: #fff;
+    border-radius: 0.2rem;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 4px 5px #e5e5e5;
+    float: left;
+    box-sizing: border-box; }
+  .product_display dl:nth-of-type(2n-1) {
+    margin-right: 0.05rem; }
+  .product_display dt {
+    float: right; }
+    .product_display dt img {
+      width: 1rem;
+      height: 0.7rem;
+      margin-right: 0.1rem; }
+  .product_display dd {
+    margin-left: 0.2rem; }
+  .product_display .first {
+    font-size: 0.3rem;
+    color: #333;
+    line-height: 0.4rem; }
+  .product_display .second {
+    font-size: 0.24rem;
+    line-height: 0.4rem; }
+  .product_display .third {
+    font-size: 0.24rem;
+    color: #333;
+    line-height: 0.4rem; }
+
+.apply-condition {
+  margin-top: 0.2rem;
+  font-size: 14px;
+  margin-bottom: 0.2rem; }
+  .apply-condition .menue {
+    height: 0.6rem;
+    background: #dddddd; }
+    .apply-condition .menue ul li {
+      color: #333;
+      font-size: 0.3rem;
+      float: left;
+      line-height: 0.6rem;
+      text-align: center;
+      width: 2.5rem; }
+    .apply-condition .menue ul .active {
+      background: #25cafc;
+      color: #fff; }
+  .apply-condition .content {
+    background: #fff;
+    height: 4.2rem;
+    width: 100%;
+    font-size: 10px; }
+    .apply-condition .content ol {
+      padding-top: 0.2rem;
+      margin-left: 0.5rem;
+      display: none; }
+      .apply-condition .content ol li {
+        color: #333;
+        font-size: 0.24rem;
+        line-height: 0.4rem;
+        list-style: decimal;
+        list-style-position: inside; }
+    .apply-condition .content .active {
+      display: block; }
+
+.product-detail {
+  margin-top: 0.2rem; }
+  .product-detail .head {
+    padding: 0 0.5rem;
+    box-sizing: border-box;
+    height: 0.6rem;
+    background: #25cafc;
+    font-size: 0.3rem;
+    color: #fff; }
+    .product-detail .head span {
+      line-height: 0.6rem; }
+    .product-detail .head i {
+      float: right;
+      line-height: 0.6rem; }
+  .product-detail .detail {
+    padding: 0.2rem 0.5rem;
+    box-sizing: border-box;
+    background: #fff;
+    margin-bottom: 0.2rem;
+    display: none; }
+    .product-detail .detail ul {
+      margin-top: 0.2rem; }
+    .product-detail .detail li {
+      list-style-type: decimal;
+      list-style-position: inside;
+      font-size: 0.24rem;
+      color: #333;
+      line-height: 0.4rem; }
+
+.advantage {
+  padding: 0.3rem 0.2rem;
+  box-sizing: border-box;
+  background: #fff; }
+  .advantage dl {
+    height: 1.2rem; }
+  .advantage dl:nth-last-of-type(2n-1) dt {
+    float: left;
+    width: 1rem; }
+    .advantage dl:nth-last-of-type(2n-1) dt img {
+      width: 1rem;
+      height: 1rem; }
+  .advantage dl:nth-last-of-type(2n-1) .first p {
+    font-size: 0.3rem;
+    color: #000;
+    margin-left: 1.2rem;
+    line-height: 0.6rem; }
+  .advantage dl:nth-last-of-type(2n-1) .second p {
+    font-size: 0.24rem;
+    color: #333;
+    margin-left: 1.2rem; }
+  .advantage dl:nth-last-of-type(2n) dt {
+    float: right;
+    width: 1rem; }
+    .advantage dl:nth-last-of-type(2n) dt img {
+      width: 1rem;
+      height: 1rem; }
+  .advantage dl:nth-last-of-type(2n) .first {
+    overflow: hidden; }
+    .advantage dl:nth-last-of-type(2n) .first p {
+      float: right;
+      font-size: 0.3rem;
+      color: #000;
+      margin-right: 0.2rem;
+      line-height: 0.6rem; }
+  .advantage dl:nth-last-of-type(2n) .second p {
+    float: right;
+    font-size: 0.24rem;
+    color: #333;
+    margin-right: 0.2rem; }
+
+/*# sourceMappingURL=yewu.css.map */

@@ -1,0 +1,26 @@
+.tit {
+    height: 1rem;
+    font-size: 14px;
+    background: #fff;
+    width:100%;
+    position: fixed;
+    top:0;
+    border-bottom: 1px solid #e5e5e5;
+    i {
+        font-size: 0.4rem;
+        line-height: 1rem;
+        color: #454545;
+        margin-left: 0.1rem;
+    }
+    img {
+        width: 2rem;
+        height: 0.65rem;
+        margin: 0 auto 0 2.3rem;
+    }
+}
+.actionPic{
+    padding-top: 1rem;
+    img{
+        width:100%;
+    }
+}

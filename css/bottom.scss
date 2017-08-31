@@ -1,0 +1,30 @@
+.bottom{
+    width: 100%;
+    height: 1.4rem;
+    //font-size: 14px;
+    padding-bottom: 1rem;
+    p{
+        text-align: center;
+        font-size: 0.24rem; 
+        color: #333333;
+    }
+    .first i{
+        color: #02a0e9;
+        font-size: 0.18rem;
+    }
+    .first{
+        font-size: 0.18rem;  
+    }
+    .second{
+        font-size: 0.14rem;
+    }
+    .third{
+        font-size: 0.14rem;
+    }
+    .first,.second{
+        margin-top: 0.2rem;
+    }
+    .third,.four{
+         margin-top: 0.1rem;
+    }
+}

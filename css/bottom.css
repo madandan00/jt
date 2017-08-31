@@ -1,0 +1,23 @@
+.bottom {
+  width: 100%;
+  height: 1.4rem;
+  padding-bottom: 1rem; }
+  .bottom p {
+    text-align: center;
+    font-size: 0.24rem;
+    color: #333333; }
+  .bottom .first i {
+    color: #02a0e9;
+    font-size: 0.18rem; }
+  .bottom .first {
+    font-size: 0.18rem; }
+  .bottom .second {
+    font-size: 0.14rem; }
+  .bottom .third {
+    font-size: 0.14rem; }
+  .bottom .first, .bottom .second {
+    margin-top: 0.2rem; }
+  .bottom .third, .bottom .four {
+    margin-top: 0.1rem; }
+
+/*# sourceMappingURL=bottom.css.map */

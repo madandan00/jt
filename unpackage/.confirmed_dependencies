@@ -1,0 +1,61 @@
+{
+  "index.html": {
+    "resources": [
+      "img/yewu_10.jpg",
+      "img/b_logo_28.jpg",
+      "img/yewu_17.jpg",
+      "css/public.css",
+      "img/yewu_08.jpg",
+      "css/swiper-3.4.2.min.css",
+      "css/index.css",
+      "img/banner_01.jpg",
+      "js/zepto.min.js",
+      "img/info_21.jpg",
+      "img/yewu_15.jpg",
+      "css/register.css",
+      "img/partner_21.jpg",
+      "css/foot.css",
+      "css/bottom.css",
+      "js/swiper-3.4.2.jquery.min .js",
+      "img/display_04.jpg",
+      "img/yinhang2_19.jpg",
+      "img/yinhang_17.jpg",
+      "font/iconfont.css",
+      "img/yinhang_19.jpg",
+      "img/info_31.jpg",
+      "img/index_display_08.jpg",
+      "img/yinhang2_21.jpg",
+      "img/yinhang2_17.jpg",
+      "img/index_display_06.jpg",
+      "js/swiper-3.4.2.jquery.min.js",
+      "img/yinhang_21.jpg",
+      "img/index_display_03.jpg",
+      "img/index_display_10.jpg",
+      "img/info_27.jpg",
+      "font/iconfont.woff",
+      "img/info_29.jpg",
+      "js/index.js",
+      "moreNews.html"
+    ],
+    "refer": []
+  },
+  "moreNews.html": {
+    "resources": [
+      "img/ad_02.jpg",
+      "img/logo_03.jpg",
+      "js/jPages.js",
+      "js/yewu.js",
+      "js/news.js",
+      "js/commenProblem.js",
+      "img/pdt4.png",
+      "img/moreNew_02.jpg",
+      "css/news.css",
+      "img/pdt1.png",
+      "css/jqpagination.css",
+      "js/jquery-2.2.3.min.js",
+      "img/pdt3.png",
+      "img/pdt2.png",
+      "js/close.js"
+    ]
+  }
+}

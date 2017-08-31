@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAQ;EACJ,WAAW,EAAE,IAAI;EACjB,YAAG;IACC,KAAK,EAAC,IAAI;;AAGlB,OAAO;EACH,cAAc,EAAE,IAAI",
+"sources": ["focus.scss"],
+"names": [],
+"file": "focus.css"
+}

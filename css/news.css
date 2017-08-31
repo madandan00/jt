@@ -1,0 +1,189 @@
+top {
+  padding-top: 1rem;
+}
+
+.tit {
+  height: 1rem;
+  font-size: 14px;
+  background: #fff;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+.tit i {
+  font-size: 0.4rem;
+  line-height: 1rem;
+  color: #454545;
+  margin-left: 0.1rem;
+}
+.tit img {
+  width: 2rem;
+  height: 0.65rem;
+  margin: 0 auto 0 2.3rem;
+}
+
+.banner {
+  padding-top: 1rem;
+  height: 2rem;
+  width: 100%;
+  margin-bottom: 0.2rem;
+}
+.banner img {
+  width: 100%;
+  height: 100%;
+}
+
+#product {
+  height: 2.05rem;
+  width: 100%;
+  background: #fff;
+  font-size: 0.20rem;
+  margin-top: 0.2rem;
+}
+#product .pdt {
+  width: 1.775rem;
+  text-align: center;
+  float: left;
+}
+#product .pdt img {
+  width: 1rem;
+  height: 1rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.2rem;
+}
+#product .pdt span {
+  font-size: 0.24rem;
+  color: #333;
+  display: block;
+}
+
+#ad {
+  width: 100%;
+  height: 1rem;
+  position: fixed;
+  bottom: 0;
+  background: url("../img/ad_02.jpg") no-repeat center center;
+  background-size: 100% 1rem;
+}
+#ad i {
+  position: absolute;
+  right: 0.1rem;
+  top: 0.1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.all-info {
+  font-size: 14px;
+}
+.all-info .tittle {
+  font-size: 0.3rem;
+  color: #333;
+  line-height: 0.4rem;
+  margin-top: 0.1rem;
+}
+.all-info .top {
+  padding: 0rem 0.2rem;
+  padding-top: 0.2rem;
+  box-sizing: border-box;
+  height: 1.1rem;
+  background: #fff;
+}
+.all-info .top ul li {
+  float: left;
+  width: 2.366rem;
+  height: 0.5rem;
+  line-height: .5rem;
+  font-size: 0.24rem;
+  color: #666;
+}
+.all-info .top ul li span {
+  margin-left: 0.1rem;
+  color: #666;
+}
+.all-info .top ul li i {
+  font-size: 0.24rem;
+  color: #666;
+}
+.all-info .top ul .active span, .all-info .top ul .active i {
+  color: #082261;
+}
+
+.news {
+  margin-top: 0.2rem;
+  background: #fff;
+}
+.news i {
+  float: right;
+  margin-top: 0.1rem;
+}
+.news .newTittle {
+  padding: 0.1rem 0.2rem;
+  height: 0.77rem;
+  box-sizing: border-box;
+  border-bottom: 1px solid #666;
+}
+.news .newTittle .headLine {
+  font-size: 0.24rem;
+  color: #333;
+  height: 0.37rem;
+  line-height: 0.37rem;
+}
+.news .newTittle .time {
+  font-size: 0.2rem;
+  color: #666;
+}
+
+#tap {
+  width: 100%;
+  height: 1rem;
+  margin-top: 0.3rem;
+  position: relative;
+}
+#tap .holder {
+  text-align: center;
+}
+#tap .holder a {
+  color: #666;
+  font-size: 0.2rem;
+  padding: 0.05rem;
+  border: none;
+}
+#tap .holder .jp-first {
+  position: absolute;
+  left: 0.2rem;
+  border: 1px solid #a0a0a0;
+  border-radius: 0.05rem;
+}
+#tap .holder .jp-previous {
+  position: absolute;
+  left: 1.6rem;
+  border: 1px solid #a0a0a0;
+  border-radius: 0.05rem;
+}
+#tap .holder .jp-next {
+  position: absolute;
+  border: 1px solid #a0a0a0;
+  border-radius: 0.05rem;
+  right: 1.6rem;
+}
+#tap .holder .jp-last {
+  position: absolute;
+  right: 0.2rem;
+  border: 1px solid #a0a0a0;
+  border-radius: 0.05rem;
+}
+#tap .holder .jp-current {
+  color: #082261;
+  font-weight: bold;
+}
+#tap .zs {
+  position: absolute;
+  left: 3.6rem;
+}
+
+.bottom {
+  padding-bottom: 0rem;
+}
+
+/*# sourceMappingURL=news.css.map */

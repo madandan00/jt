@@ -1,0 +1,10 @@
+$(".dis-bnt").on("click",function(){
+	//alert($(this).hasClass("icon-shangjiantou"))
+	if($(this).hasClass("icon-shangjiantou")){
+		$(".detail").show();
+		$(this).removeClass("icon-shangjiantou").addClass("icon-xiajiantou");
+	}else{
+		$(".detail").hide();
+		$(this).removeClass("icon-xiajiantou").addClass("icon-shangjiantou");
+	}
+})
